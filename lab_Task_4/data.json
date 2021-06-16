@@ -1,0 +1,22 @@
+[
+    {
+        "name": "rakib",
+        "email": "xyz@gmail.com",
+        "password": "12345678",
+        "comment": "well",
+        "gender": "Male",
+        "hobby1": "Singing",
+        "hobby2": null,
+        "hobby3": null
+    },
+    {
+        "name": "ismail",
+        "email": "yzy@gmail.com",
+        "password": "123456789",
+        "comment": "good",
+        "gender": "Male",
+        "hobby1": null,
+        "hobby2": null,
+        "hobby3": "Reading"
+    }
+]
